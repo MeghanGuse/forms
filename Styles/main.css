@@ -1,1 +1,15 @@
 `/* empty */
+
+#materialize-overrides {
+	font-family: 'Acme', sans-serif;
+	background-image: url("https://wallpaperstock.net/wallpapers/thumbs1/3069.jpg");
+}
+
+.waves-effect waves-light btn {
+	background: #000080;
+	color: white;
+}
+
+h1,h3 {
+	margin: 15px;
+}
